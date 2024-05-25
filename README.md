@@ -1,4 +1,6 @@
-# CS50 Final Project: Award Calculator (AC)
+# Award Calculator (AC)
+
+A tool to calculate award outcomes using the appropriate rules as defined by each student's period of study.
 
 ## Materials
 The files and materials provided are:
@@ -8,8 +10,6 @@ The files and materials provided are:
     - **Internal checking output sheet**, which reports errors and provides a preview of calculation results
     - **Ratification report template and output folder**, which determines where and in what form generated reports are stored
     - **Programme routes data sheet**, which is read to provide the tool dynamically with programme and module information
-
-For the video introduction to this programme, see: https://www.youtube.com/watch?v=ljo9wcrRCM0
 
 ## Running
 To run the programme, navigate to the bottom of the notebook and execute the final code block. (By design, the code will be hidden; only the markdown and configuration widgets will be visible.)
